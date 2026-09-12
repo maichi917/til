@@ -22,3 +22,4 @@
 ## 一覧
 
 - [rails/price_before_type_cast.md](rails/price_before_type_cast.md) — `カラム名_before_type_cast` で型変換前の値が取れる
+- [render/cron_job_setup.md](render/cron_job_setup.md) — RenderでRailsの定期タスク（Cron Job）を設定する
