@@ -24,3 +24,4 @@
 - [rails/price_before_type_cast.md](rails/price_before_type_cast.md) — `カラム名_before_type_cast` で型変換前の値が取れる
 - [render/cron_job_setup.md](render/cron_job_setup.md) — RenderでRailsの定期タスク（Cron Job）を設定する
 - [rails/boolean_column_query_method.md](rails/boolean_column_query_method.md) — boolean型のカラムには自動で `カラム名?` メソッドが定義される
+- [rails/image_gem_selection.md](rails/image_gem_selection.md) — 画像加工・保存まわりのgem選定理由（vips / Active Storage）
