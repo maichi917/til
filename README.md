@@ -28,6 +28,7 @@
 - [rails/boolean_column_query_method.md](rails/boolean_column_query_method.md) — boolean型のカラムには自動で `カラム名?` メソッドが定義される
 - [rails/image_gem_selection.md](rails/image_gem_selection.md) — 画像加工・保存まわりのgem選定理由（vips / Active Storage）
 - [rails/redirect_back_fallback_location.md](rails/redirect_back_fallback_location.md) — `redirect_back`は元の画面に戻る、`fallback_location:`はRefererがない時の保険
+- [rails/password_reset_email_setup.md](rails/password_reset_email_setup.md) — パスワードリセットメールは開発:letter_opener_web／本番:Devise+ActionMailer+Resendで送る
 
 </details>
 
